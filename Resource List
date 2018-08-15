@@ -4,7 +4,12 @@ https://exchange.xforce.ibmcloud.com/
 https://www.threatminer.org/
 
 Processes
+-Threat Hunting
 https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+
+Tools
+-Incident Response
+https://github.com/n0dec/MalwLess
 
 Configuration Info
 https://github.com/SwiftOnSecurity/sysmon-config
