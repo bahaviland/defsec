@@ -8,11 +8,22 @@ Processes
 https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
 
 Tools
--Incident Response
+-Threat Hunting / Incident Response
 https://github.com/n0dec/MalwLess
+https://github.com/TonyPhipps/THRecon
+https://github.com/SecurityRiskAdvisors/VECTR/blob/master/media/VECTR%20v4_2%20Feature%20Breakdown.pdf
+-Network Intrusion Detection
+https://github.com/OISF/suricata
+  +https://github.com/StamusNetworks/scirius
+  +https://github.com/OISF/suricata-update
+  +https://github.com/shirkdog/pulledpork
+  +https://github.com/AlienVault-OTX/OTX-Suricata
+-Malware Analysis
+https://github.com/virustotal/yara
 
 Configuration Info
 https://github.com/SwiftOnSecurity/sysmon-config
 
 Misc. Blue Team Info
 https://wiki.sans.blue/
+https://github.com/JohnHammond/blueteamfieldmanual
