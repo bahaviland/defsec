@@ -1,6 +1,13 @@
-https://wiki.sans.blue/
+Threat Feeds
 https://otx.alienvault.com/
 https://exchange.xforce.ibmcloud.com/
-https://github.com/SwiftOnSecurity/sysmon-config
-https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
 https://www.threatminer.org/
+
+Processes
+https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+
+Configuration Info
+https://github.com/SwiftOnSecurity/sysmon-config
+
+Misc. Blue Team Info
+https://wiki.sans.blue/
