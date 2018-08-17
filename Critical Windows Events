@@ -1,13 +1,11 @@
 Type                    Event IDs                     Log
-Create Service          7030, 7045                    System
+Create Service          7045                          System
 Command-line auditing   4688                          Security
 Create user             4720, 4722, 4724, 4738        Security
 Add user to group       4732                          Security
 Clear event log         1102                          Security
 Create RDP certificate  1056                          System
-Insert USB              7045, 10000, 10001, 10100     System
-  continued...          20001, 20002, 20003, 24576
-  continued...          24577, 24579
+Insert USB              6416                          Security
 Disable Firewall        2003                          Firewall
 AppLocker               8003, 8004, 8006, 8007        AppLocker
 ExploitGuard (1709+)    1-24                          Security-Mitigations
